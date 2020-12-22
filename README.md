@@ -5,6 +5,7 @@
 Na linha 1, apos "website =" coloque dentro das aspas("") o link 
 ou parte da url que você deseja adicionar na whitelist
 ```
+## EXEMPLO:
 ```js
 # website = "exemplo"
 ou
