@@ -1,4 +1,7 @@
 # AntiDiscard-Extension
-# Para definir qual site deve entrar na whitelist do Discard(as que não vão ser descartadas):
-## edite em background.js a variavel "website" com parte do texto ou o link que contém na url do site que você deseja colocar na whitelist.
-# Criado por mim em ambiente de trabalho na @InfoCapTI para solucionar alguns problemas do Chrome.
+## Como usar
+### Dentro do arquivo Source/background.js
+```js
+Na linha 1, apos "website =" coloque dentro das aspas("") o link ou parte da url que você deseja adicionar na whitelist
+```
+#### Criado por mim em ambiente de trabalho na @InfoCapTI para solucionar alguns problemas do Chrome.
