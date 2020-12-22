@@ -1,0 +1,8 @@
+{
+  "manifest_name": {
+    "message": "Corp Anti-Discard"
+  },
+  "manifest_description": {
+    "message": "Extensão para evitar que o navegador faça cair a conexão com o corp"
+  }
+}

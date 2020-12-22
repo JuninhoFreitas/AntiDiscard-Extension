@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_manifest_name__",
+  "description": "__MSG_manifest_description__",
+  "version": "1.0.4",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "activeTab",
+    "<all_urls>"
+  ],
+  "default_locale": "en"
+}
