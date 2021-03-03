@@ -12,3 +12,4 @@ ou
 # website = "www.exemplo.com.br"
 ```
 #### Criado por mim em ambiente de trabalho na @InfoCapTI para solucionar alguns problemas do Chrome.
+#### Não é mais necessario o uso, agora o EDGE já vem com a opção de desativar o discard de abas.
